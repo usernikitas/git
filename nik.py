@@ -1,2 +1,7 @@
 print("hello world")
 print('nikhil sankpal')
+print('nikhil sankpal')
+print('nikhil sankpal')
+print('nikhil sankpal')
+print('nikhil sankpal')
+print('nikhil sankpal')
